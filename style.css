@@ -66,8 +66,8 @@ main {
   margin: 0 auto;
   min-width: 280px;
   max-width: 1000px;
-  border: 1px solid rgba(0, 0, 0, 0.082);
-  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.104);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1);
   border-radius: 0 0 20px 20px;
 }
 
@@ -86,7 +86,7 @@ main {
   font-weight: bolder;
   color: var(--cor3);
   text-align: center;
-  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.199);
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
   font-size: 2rem;
 }
 
@@ -112,7 +112,7 @@ main {
   margin-top: 15px;
   margin-bottom: 15px;
   border-radius: 10px;
-  background-color: #1a5c37;
+  background-color: var(--cor4);
 }
 
 .section-video{
